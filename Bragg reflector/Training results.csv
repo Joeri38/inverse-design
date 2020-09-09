@@ -1,0 +1,2 @@
+,Run,Set-up,Activation,Train MAE,Val MAE,Training time,Epochs,Saved as
+0,1,"6 layers, 200 nodes",swish,0.011488393880426884,0.010114278644323349,38 mins 5s,1000,Bragg reflector/6layers200nodes_run1_swish.hdf5
