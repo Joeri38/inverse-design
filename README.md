@@ -10,4 +10,8 @@ The notebook contains the code for the 2 steps of inverse design. This is step 1
 
 ## Bragg reflector
 
+There was only one trained network in the folder "Bragg reflector". This folder also contains a subfolder 'gifs/' with some interesting gifs of inverse design on transmissions from the test set, like the one below.
+
+![Inverse design - 6921](https://github.com/Joeri38/inverse-design/blob/master/Bragg%20reflector/gifs/Inverse%20design%20-%20transmission%206921.gif)
+
 ![Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
