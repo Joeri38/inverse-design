@@ -1,6 +1,6 @@
 # Inverse Design with Deep Learning
 
-Inverse design of a Fabry-Pérot resonator and Bragg reflector
+Inverse design of a Fabry-Pérot resonator and Bragg reflector. Code from the paper ...
 
 ## Fabry-Pérot
 
