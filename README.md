@@ -14,4 +14,6 @@ There was only one trained network in the folder "Bragg reflector". This folder 
 
 ![Inverse design - 6921](https://github.com/Joeri38/inverse-design/blob/master/Bragg%20reflector/gifs/Inverse%20design%20-%20transmission%206921.gif)
 
+## Thanks for reading
+
 ![Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
