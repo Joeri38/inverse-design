@@ -1,6 +1,6 @@
 # Inverse Design with Deep Learning
 
-Work of my master thesis "Data driven design of optical resonators: using artificial intelligence to gain insight into nanophotonic structures" at Vrije Universiteit Brussel. Inverse design of a Fabry-Pérot resonator and Bragg reflector. Code from the paper ...
+Work of my master thesis "Data driven design of optical resonators: using artificial intelligence to gain insight into nanophotonic structures" at Vrije Universiteit Brussel, under supervision of Hannah Pinson and Prof. Vincent Ginis. Inverse design of a Fabry-Pérot resonator and Bragg reflector. Code from the paper ...
 
 ## Fabry-Pérot
 
