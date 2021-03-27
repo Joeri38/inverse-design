@@ -2,7 +2,7 @@
 
 Work of my master thesis "Data driven design of optical resonators: using artificial intelligence to gain insight into nanophotonic structures" at Vrije Universiteit Brussel, under supervision of Hannah Pinson and Prof. Vincent Ginis. Inverse design of a Fabry-Pérot resonator and Bragg reflector. 
 
-> J. Lenaerts, H. Pinson, V. Ginis, "Artificial Neural Networks for inverse design of resonant nanophotonic components with oscillatory loss landscapes", (2021)  Nanophotonics, https://www.degruyter.com/view/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0379/article-10.1515-nanoph-2020-0379.xml
+> J. Lenaerts, H. Pinson, V. Ginis, "Artificial Neural Networks for inverse design of resonant nanophotonic components with oscillatory loss landscapes" (2021)  Nanophotonics, https://www.degruyter.com/view/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0379/article-10.1515-nanoph-2020-0379.xml
 
 ## Fabry-Pérot
 
