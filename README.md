@@ -1,6 +1,6 @@
 # Inverse Design with Deep Learning
 
-Work of my master thesis "Data driven design of optical resonators: using artificial intelligence to gain insight into nanophotonic structures" at Vrije Universiteit Brussel, under supervision of Hannah Pinson and Prof. Vincent Ginis. For this work, I won the Best Physics Master thesis prize of the Belgian Physical Society (BPS). It led to a publication in Nanophotonics: 
+Work of my master thesis "Data driven design of optical resonators: using artificial intelligence to gain insight into nanophotonic structures" at Vrije Universiteit Brussel, under supervision of Hannah Pinson and Prof. Vincent Ginis. For this work, I won the Best Physics Master thesis prize of the Belgian Physical Society (BPS). Full thesis can be found on https://arxiv.org/abs/2202.03578. It led to a publication in Nanophotonics: 
 
 > J. Lenaerts, H. Pinson, V. Ginis, "Artificial Neural Networks for inverse design of resonant nanophotonic components with oscillatory loss landscapes" (2021)  Nanophotonics, (10)1, 385-392 https://www.degruyter.com/view/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0379/article-10.1515-nanoph-2020-0379.xml
 
